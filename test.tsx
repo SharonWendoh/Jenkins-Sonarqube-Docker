@@ -1,1 +1,1 @@
-This is to verify webhooks is working correctlt
+This is to verify webhooks is working correctly
